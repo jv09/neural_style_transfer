@@ -10,7 +10,6 @@ Content is used as the input instead of Noise.
 These might be the reasons for some differences in the result. 
 I didn't notice any differences when changing the alpha and beta values. The biggest change happens when changing the learning rate. A higher learning rate leads to more significant changens to the original content.
 
-<br>
 
 ### Setup
 You will need a virtualenv with `python>=3.8`.
