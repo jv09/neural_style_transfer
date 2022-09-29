@@ -32,3 +32,7 @@ poetry run python neural_style_transfer/nst.py
 ![alisha_result](https://user-images.githubusercontent.com/70435148/193102420-aca5866e-b305-41ab-97eb-4d70da9ba1cc.png)
 
 
+**Example 2:**
+Taking Starry night and snow as style and content images respectively
+
+![snow](https://user-images.githubusercontent.com/70435148/193103028-60d481a1-1f30-469a-91fd-b91b2cb28d1b.png)
