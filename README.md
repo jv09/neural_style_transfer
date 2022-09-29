@@ -25,4 +25,10 @@ poetry install
 poetry run python neural_style_transfer/nst.py
 ```
 
+### Results from some example content and style images
+
+**Example 1:**
+
+![alisha_result](https://user-images.githubusercontent.com/70435148/193102420-aca5866e-b305-41ab-97eb-4d70da9ba1cc.png)
+
 
